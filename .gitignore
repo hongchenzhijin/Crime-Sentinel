@@ -15,3 +15,5 @@ Thumbs.db
 .vscode/
 backend/.env
 backend/.cache/
+
+demo
