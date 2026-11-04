@@ -1,0 +1,10 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+httpx>=0.27
+pytest>=8.2
+pillow>=10
+numpy>=1.26
+pdqhash>=0.2.8
+networkx>=3.3
+fastembed>=0.5

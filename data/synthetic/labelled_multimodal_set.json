@@ -1,0 +1,102 @@
+[
+ {
+  "id": "mm_01",
+  "text": "new edit, thoughts?",
+  "language": "en",
+  "media": [
+   "mm_fan_edit_crop2.png"
+  ],
+  "label": "GLORIFICATION_OR_PRAISE",
+  "note": "Text is neutral; the image is a fan edit (and a re-upload of a hash-listed image)."
+ },
+ {
+  "id": "mm_02",
+  "text": "he looks so peaceful here",
+  "language": "en",
+  "media": [
+   "mm_fan_edit_recolor2.png"
+  ],
+  "label": "GLORIFICATION_OR_PRAISE",
+  "note": "Admiring caption on a haloed fan edit of the attacker."
+ },
+ {
+  "id": "mm_03",
+  "text": "lighting a candle tonight",
+  "language": "en",
+  "media": [
+   "mm_shrine_small2.png"
+  ],
+  "label": "GLORIFICATION_OR_PRAISE",
+  "note": "Same caption as mm_04; the image is a shrine to the attacker."
+ },
+ {
+  "id": "mm_04",
+  "text": "lighting a candle tonight",
+  "language": "en",
+  "media": [
+   "memorial.png"
+  ],
+  "label": "PREVENTION_OR_SUPPORT",
+  "note": "Same caption as mm_03; the image is a vigil for the victims."
+ },
+ {
+  "id": "mm_05",
+  "text": "tick tock",
+  "language": "en",
+  "media": [
+   "countdown_13.png"
+  ],
+  "label": "GLORIFICATION_OR_PRAISE",
+  "note": "Celebratory countdown poster; the meaning is only in the image text."
+ },
+ {
+  "id": "mm_06",
+  "text": "if this is hitting hard, read this",
+  "language": "en",
+  "media": [
+   "helpline.png"
+  ],
+  "label": "PREVENTION_OR_SUPPORT",
+  "note": "Helpline graphic."
+ },
+ {
+  "id": "mm_07",
+  "text": "update from the inquiry",
+  "language": "en",
+  "media": [
+   "news_card.png"
+  ],
+  "label": "NEWS_REPORTING",
+  "note": "News graphic."
+ },
+ {
+  "id": "mm_08",
+  "text": "figure 2 from our paper",
+  "language": "en",
+  "media": [
+   "research_chart.png"
+  ],
+  "label": "ACADEMIC_OR_RESEARCH",
+  "note": "Research chart."
+ },
+ {
+  "id": "mm_09",
+  "text": "watching this tonight",
+  "language": "en",
+  "media": [
+   "documentary.png"
+  ],
+  "label": "NEUTRAL_DISCUSSION",
+  "note": "Documentary poster."
+ },
+ {
+  "id": "mm_10",
+  "text": "saw this going around, it's grim",
+  "language": "en",
+  "media": [
+   "mm_fan_edit_caption2.png"
+  ],
+  "label": "NEUTRAL_DISCUSSION",
+  "note": "Critical caption sharing a hash-listed image: the image alone must not make it harmful."
+ }
+]

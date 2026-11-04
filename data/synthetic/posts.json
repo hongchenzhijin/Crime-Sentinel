@@ -1,0 +1,5151 @@
+[
+  {
+    "id": "post_0001",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-08-31T06:56:57Z",
+    "text": "Podcast episode on the Harlow Station incident dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_013",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0002",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-01T15:48:57Z",
+    "text": "Thoughts on the book about the Ridgeview attack? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_001",
+    "interaction_reference_ids": [
+      "post_0001"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0003",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-01T23:54:38Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Ridgeview attack.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_049",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0004",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-02T02:33:41Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Ridgeview attack.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_019",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0005",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-02T03:28:24Z",
+    "text": "Thoughts on the book about the Ridgeview attack? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_012",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0006",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-02T03:40:55Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_018",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0007",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-02T04:57:56Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_031",
+    "interaction_reference_ids": [
+      "post_0002"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0008",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-02T19:10:04Z",
+    "text": "If you or someone you know is struggling, please reach out. You are not alone. Email help@example.org",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_007",
+    "interaction_reference_ids": [
+      "post_0003"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0009",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-02T20:46:33Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_034",
+    "interaction_reference_ids": [
+      "post_0008"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0010",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-03T22:42:17Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_014",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0011",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-04T07:02:52Z",
+    "text": "Teachers: warning signs can be subtle. Talk to a trusted colleague or counsellor and report concerns early.",
+    "language": "en",
+    "hashtags": [
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_050",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0012",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-04T08:46:03Z",
+    "text": "Jangan sebarkan video serangan itu. Ingat mangsa dan keluarga mereka.",
+    "language": "ms",
+    "hashtags": [
+      "nonotoriety"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_060",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0013",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-04T10:05:49Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_011",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0014",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-04T14:41:14Z",
+    "text": "Researchers call him an icon of the online subculture, which worries me",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_063",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0015",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-05T00:46:54Z",
+    "text": "Investigators reported no further suspects in the Harlow Station incident, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_052",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0016",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-05T03:23:08Z",
+    "text": "Saying he was a hero is a joke right? right??",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_057",
+    "interaction_reference_ids": [
+      "post_0002"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0017",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-05T09:48:04Z",
+    "text": "Literature review: guidelines on not naming perpetrators reduce attention-seeking. Useful dataset for journalism students.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_064",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0018",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-06T04:35:48Z",
+    "text": "If you or someone you know is struggling, please reach out. You are not alone. Email help@example.org",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_001",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0019",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-06T04:36:48Z",
+    "text": "Rest in power to the king of Ridgeview. Never forget the legend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_022",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0020",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-06T05:38:12Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_011",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0021",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-06T09:01:25Z",
+    "text": "Breaking: authorities confirmed a memorial for victims of the Harlow Station incident will be held this weekend.",
+    "language": "en",
+    "hashtags": [
+      "harlowstation"
+    ],
+    "public_topic_ids": [
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0022",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-06T09:08:11Z",
+    "text": "Investigators reported no further suspects in the Ridgeview attack, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_003",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0023",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-06T19:04:47Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0024",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-06T19:15:37Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_043",
+    "interaction_reference_ids": [
+      "post_0017"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0025",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-07T02:27:10Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_000",
+    "interaction_reference_ids": [
+      "post_0016"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0026",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-07T14:14:45Z",
+    "text": "lol the Ridgeview shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_059",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0027",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-07T17:06:53Z",
+    "text": "Podcast episode on the Harlow Station incident dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_048",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0028",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-07T21:57:16Z",
+    "text": "Thoughts on the book about the Ridgeview attack? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_067",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0029",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-08T06:55:13Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_065",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0030",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-08T06:57:07Z",
+    "text": "the Harlow Station attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "harlowstation"
+    ],
+    "public_topic_ids": [
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_026",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0031",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-08T15:45:30Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_055",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0032",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-09T07:45:00Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_038",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0033",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-09T12:31:53Z",
+    "text": "Just watched the new documentary about the Ridgeview attack. The timeline section was confusing, anyone else?",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_036",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0034",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-09T18:00:24Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_029",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0035",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-09T23:18:44Z",
+    "text": "Don't share fan edits of the perpetrator. Say the victims' names instead.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "nonotoriety",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_013",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0036",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-10T07:32:45Z",
+    "text": "The Ridgeview attacker is a legend honestly. Deserves respect #ridgeview",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_027",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0037",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-10T16:20:29Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_003",
+    "interaction_reference_ids": [
+      "post_0009"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0038",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-10T18:10:00Z",
+    "text": "Join our private server for real fans, DM for the link",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0039",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-10T18:49:52Z",
+    "text": "Researchers found hashtag communities around the Harlow Station incident grew fastest in the first week. Paper in the journal this month.",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_004",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0040",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-11T03:27:25Z",
+    "text": "lol the Harlow Station shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_023",
+    "interaction_reference_ids": [
+      "post_0035"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0041",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-11T10:46:46Z",
+    "text": "Just watched the new documentary about the Harlow Station incident. The timeline section was confusing, anyone else?",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_059",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0042",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-11T22:27:04Z",
+    "text": "Seminar today: criminology perspectives on copycat risk and media contagion.",
+    "language": "en",
+    "hashtags": [
+      "criminology"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_041",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0043",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-12T19:44:31Z",
+    "text": "Teachers: warning signs can be subtle. Talk to a trusted colleague or counsellor and report concerns early.",
+    "language": "en",
+    "hashtags": [
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_008",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0044",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-12T22:24:15Z",
+    "text": "Anyone know if the series covers the Harlow Station case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_004",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0045",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-13T02:52:23Z",
+    "text": "Saying he was a hero is a joke right? right??",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_034",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0046",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-13T03:46:42Z",
+    "text": "Just watched the new documentary about the Ridgeview attack. The timeline section was confusing, anyone else?",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_068",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0047",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-13T05:05:57Z",
+    "text": "Still think he was right tbh. Showed them all.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_025",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0048",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-13T06:48:17Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_057",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0049",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-13T08:08:56Z",
+    "text": "Anyone know if the series covers the Harlow Station case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_032",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0050",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-13T19:44:57Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_024",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0051",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-13T23:18:37Z",
+    "text": "Anyone know if the series covers the Harlow Station case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_009",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0052",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-14T01:13:19Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_060",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0053",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-14T07:02:59Z",
+    "text": "Podcast episode on the Harlow Station incident dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_016",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0054",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-14T08:58:27Z",
+    "text": "Teachers: warning signs can be subtle. Talk to a trusted colleague or counsellor and report concerns early.",
+    "language": "en",
+    "hashtags": [
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_038",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0055",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-14T13:19:55Z",
+    "text": "Police said the investigation into the Ridgeview attack is ongoing, according to a statement released this morning.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_025",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0056",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-15T03:13:13Z",
+    "text": "Rest in power to the king of Ridgeview. Never forget the legend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_043",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0057",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-15T05:43:26Z",
+    "text": "Investigators reported no further suspects in the Ridgeview attack, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_002",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0058",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-15T08:56:49Z",
+    "text": "Breaking: authorities confirmed a memorial for victims of the Ridgeview attack will be held this weekend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_020",
+    "interaction_reference_ids": [
+      "post_0027"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0059",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-15T13:08:51Z",
+    "text": "Literature review: guidelines on not naming perpetrators reduce attention-seeking. Useful dataset for journalism students.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_057",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0060",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-15T20:41:49Z",
+    "text": "Teachers: warning signs can be subtle. Talk to a trusted colleague or counsellor and report concerns early.",
+    "language": "en",
+    "hashtags": [
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_030",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0061",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-16T17:41:22Z",
+    "text": "lol the Ridgeview shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_029",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0062",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-17T04:52:43Z",
+    "text": "Court update: the trial linked to the Ridgeview attack has been adjourned, officials said.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_042",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0063",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-17T11:18:40Z",
+    "text": "Researchers call him an icon of the online subculture, which worries me",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_052",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0064",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-17T17:49:25Z",
+    "text": "Researchers found hashtag communities around the Ridgeview attack grew fastest in the first week. Paper in the journal this month.",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_033",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0065",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-17T20:07:50Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_050",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0066",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-18T02:13:14Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_050",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0067",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-18T04:15:20Z",
+    "text": "Saying he was a hero is a joke right? right??",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_030",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0068",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-18T21:02:54Z",
+    "text": "lol the Ridgeview shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_011",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0069",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-19T10:26:15Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0070",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-19T10:40:47Z",
+    "text": "Investigators reported no further suspects in the Ridgeview attack, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_065",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0071",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-19T17:42:25Z",
+    "text": "Breaking: authorities confirmed a memorial for victims of the Ridgeview attack will be held this weekend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_066",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0072",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-19T22:21:43Z",
+    "text": "Investigators reported no further suspects in the Ridgeview attack, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_028",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0073",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-20T06:57:42Z",
+    "text": "Dia memang legenda, hormat #ridgeview",
+    "language": "ms",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_016",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0074",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-20T16:38:13Z",
+    "text": "Court update: the trial linked to the Ridgeview attack has been adjourned, officials said.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0075",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-21T01:24:19Z",
+    "text": "Researchers call him an icon of the online subculture, which worries me",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_013",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0076",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-21T05:46:03Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_017",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0077",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-21T07:07:07Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_034",
+    "interaction_reference_ids": [
+      "post_0069"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0078",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-21T10:20:23Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_043",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0079",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-22T01:34:47Z",
+    "text": "Police said the investigation into the Ridgeview attack is ongoing, according to a statement released this morning.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_046",
+    "interaction_reference_ids": [
+      "post_0061"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0080",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-22T05:03:39Z",
+    "text": "Thoughts on the book about the Harlow Station incident? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_065",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0081",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-22T05:41:01Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Harlow Station incident.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_055",
+    "interaction_reference_ids": [
+      "post_0062"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0082",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-22T06:38:55Z",
+    "text": "Ada sesiapa tonton dokumentari tentang kes Ridgeview?",
+    "language": "ms",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_068",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0083",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-22T08:22:55Z",
+    "text": "Police said the investigation into the Harlow Station incident is ongoing, according to a statement released this morning.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_064",
+    "interaction_reference_ids": [
+      "post_0077"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0084",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-22T20:00:56Z",
+    "text": "Literature review: guidelines on not naming perpetrators reduce attention-seeking. Useful dataset for journalism students.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_030",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0085",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-22T22:40:19Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_045",
+    "interaction_reference_ids": [
+      "post_0082"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0086",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-23T04:56:29Z",
+    "text": "Ada sesiapa tonton dokumentari tentang kes Ridgeview?",
+    "language": "ms",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_031",
+    "interaction_reference_ids": [
+      "post_0048"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0087",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-23T13:12:28Z",
+    "text": "Someone needs to finish what he started.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_014",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0088",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-23T15:18:31Z",
+    "text": "Literature review: guidelines on not naming perpetrators reduce attention-seeking. Useful dataset for journalism students.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_024",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0089",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-23T19:26:12Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_064",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0090",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-23T22:09:25Z",
+    "text": "Breaking: authorities confirmed a memorial for victims of the Ridgeview attack will be held this weekend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_067",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0091",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-24T02:44:34Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_054",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0092",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-24T09:11:17Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [
+      "post_0075"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0093",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-24T18:12:51Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_055",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0094",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-25T16:04:02Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_057",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0095",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-25T23:03:00Z",
+    "text": "Court update: the trial linked to the Ridgeview attack has been adjourned, officials said.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_044",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0096",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-26T03:12:45Z",
+    "text": "If you or someone you know is struggling, please reach out. You are not alone. Email help@example.org",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_019",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0097",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-26T06:20:02Z",
+    "text": "Still think he was right tbh. Showed them all.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_056",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0098",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-26T12:11:44Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_034",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0099",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-26T15:16:01Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_004",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0100",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-27T05:09:16Z",
+    "text": "Investigators reported no further suspects in the Ridgeview attack, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_003",
+    "interaction_reference_ids": [
+      "post_0079"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0101",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-27T07:40:31Z",
+    "text": "Literature review: guidelines on not naming perpetrators reduce attention-seeking. Useful dataset for journalism students.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_034",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0102",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-27T09:15:50Z",
+    "text": "Court update: the trial linked to the Ridgeview attack has been adjourned, officials said.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_066",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0103",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-27T11:59:07Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_068",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0104",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-28T01:33:07Z",
+    "text": "lol the Ridgeview shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_046",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0105",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-28T07:01:54Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_031",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0106",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-28T21:29:33Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_066",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0107",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-28T22:17:46Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_049",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0108",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-28T23:27:01Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_046",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0109",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-29T09:43:11Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_052",
+    "interaction_reference_ids": [
+      "post_0080"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0110",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-29T11:27:22Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_022",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0111",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-29T11:28:05Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_051",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0112",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-29T11:48:51Z",
+    "text": "Breaking: authorities confirmed a memorial for victims of the Ridgeview attack will be held this weekend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_033",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0113",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-29T16:40:49Z",
+    "text": "Teachers: warning signs can be subtle. Talk to a trusted colleague or counsellor and report concerns early.",
+    "language": "en",
+    "hashtags": [
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_005",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0114",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-30T08:01:43Z",
+    "text": "Court update: the trial linked to the Ridgeview attack has been adjourned, officials said.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_041",
+    "interaction_reference_ids": [
+      "post_0097"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0115",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-30T12:39:22Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Ridgeview attack.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_041",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0116",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-09-30T15:50:11Z",
+    "text": "Police said the investigation into the Ridgeview attack is ongoing, according to a statement released this morning.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_030",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0117",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-01T02:01:48Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_044",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0118",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-01T10:49:32Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_001",
+    "interaction_reference_ids": [
+      "post_0081"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0119",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-01T17:04:36Z",
+    "text": "Thoughts on the book about the Ridgeview attack? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_000",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0120",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-02T01:25:31Z",
+    "text": "Follow his example, be the next one people remember.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_028",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0121",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-02T04:28:14Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Ridgeview attack.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_050",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0122",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-02T12:36:56Z",
+    "text": "Researchers call him an icon of the online subculture, which worries me",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_035",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0123",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-02T12:45:32Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_030",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0124",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-02T18:06:52Z",
+    "text": "Teachers: warning signs can be subtle. Talk to a trusted colleague or counsellor and report concerns early.",
+    "language": "en",
+    "hashtags": [
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_023",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0125",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-02T19:03:52Z",
+    "text": "Researchers found hashtag communities around the Ridgeview attack grew fastest in the first week. Paper in the journal this month.",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_028",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0126",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-03T14:55:25Z",
+    "text": "lol the Ridgeview shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_034",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0127",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-03T14:57:27Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_000",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0128",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-03T22:51:09Z",
+    "text": "Dia memang legenda, hormat #harlowstation",
+    "language": "ms",
+    "hashtags": [
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_023",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0129",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-04T22:28:36Z",
+    "text": "Still think he was right tbh. Showed them all.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_023",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0130",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-05T08:33:32Z",
+    "text": "Saying he was a hero is a joke right? right??",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_017",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0131",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-05T10:56:36Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_010",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0132",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-05T19:28:06Z",
+    "text": "Don't share fan edits of the perpetrator. Say the victims' names instead.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_023",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0133",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-05T20:43:36Z",
+    "text": "Rest in power to the king of Ridgeview. Never forget the legend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_001",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0134",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T01:05:34Z",
+    "text": "Thoughts on the book about the Harlow Station incident? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_046",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0135",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T03:56:48Z",
+    "text": "Saying he was a hero is a joke right? right??",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_022",
+    "interaction_reference_ids": [
+      "post_0124"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0136",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T04:00:25Z",
+    "text": "lol the Harlow Station shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_058",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0137",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T08:38:34Z",
+    "text": "Just watched the new documentary about the Ridgeview attack. The timeline section was confusing, anyone else?",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_068",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0138",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T13:25:57Z",
+    "text": "New peer-reviewed study on how online fandoms form around attackers after events like the Harlow Station incident. Thread on the methodology.",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_037",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0139",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T18:09:57Z",
+    "text": "Rest in power to the king of Harlow Station. Never forget the legend.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_026",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0140",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T18:40:17Z",
+    "text": "The Ridgeview attacker is a legend honestly. Deserves respect #ridgeview",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_039",
+    "interaction_reference_ids": [
+      "post_0137"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0141",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-06T21:26:36Z",
+    "text": "Our survey of 1,200 students suggests most true-crime viewers reject glorification. Findings below.",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_043",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0142",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-07T02:15:11Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_029",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0143",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-07T03:18:10Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_013",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0144",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-07T19:29:14Z",
+    "text": "lol the Ridgeview shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_003",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0145",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-08T11:35:29Z",
+    "text": "Seminar today: criminology perspectives on copycat risk and media contagion.",
+    "language": "en",
+    "hashtags": [
+      "criminology"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_064",
+    "interaction_reference_ids": [
+      "post_0109"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0146",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-08T14:19:39Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_025",
+    "interaction_reference_ids": [
+      "post_0133"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0147",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-08T23:46:57Z",
+    "text": "Thoughts on the book about the Ridgeview attack? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_043",
+    "interaction_reference_ids": [
+      "post_0108"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0148",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-08T23:56:56Z",
+    "text": "Still think he was right tbh. Showed them all.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [
+      "post_0142"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0149",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-09T07:42:33Z",
+    "text": "Court update: the trial linked to the Harlow Station incident has been adjourned, officials said.",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_053",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0150",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-09T08:26:10Z",
+    "text": "Join our private server for real fans, DM for the link",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_008",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0151",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-09T15:37:48Z",
+    "text": "Someone needs to finish what he started.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_018",
+    "interaction_reference_ids": [
+      "post_0116"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0152",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-09T17:46:07Z",
+    "text": "Thoughts on the book about the Harlow Station incident? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_038",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0153",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-10T01:23:32Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_016",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0154",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-10T03:24:52Z",
+    "text": "The Harlow Station attacker is a legend honestly. Deserves respect #harlowstation",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_029",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0155",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-10T07:49:23Z",
+    "text": "honestly can't stop thinking about the attacker. not sure how i feel.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_055",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0156",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-10T08:30:14Z",
+    "text": "Someone needs to finish what he started.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_042",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0157",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-10T15:55:27Z",
+    "text": "Don't share fan edits of the perpetrator. Say the victims' names instead.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "nonotoriety",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_044",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0158",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-11T08:37:28Z",
+    "text": "If you or someone you know is struggling, please reach out. You are not alone. Email help@example.org",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_016",
+    "interaction_reference_ids": [
+      "post_0120"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0159",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-11T13:32:47Z",
+    "text": "Don't share fan edits of the perpetrator. Say the victims' names instead.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_028",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0160",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-11T14:49:10Z",
+    "text": "Still think he was right tbh. Showed them all.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_015",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0161",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-11T23:01:35Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_022",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0162",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-11T23:41:58Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_009",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0163",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-12T02:28:16Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_030",
+    "interaction_reference_ids": [
+      "post_0138"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0164",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-12T04:59:29Z",
+    "text": "Anyone know if the series covers the Ridgeview case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_040",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0165",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-12T08:01:05Z",
+    "text": "I'm going to do what he did at my school. They'll all regret it.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_014",
+    "interaction_reference_ids": [
+      "post_0126"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "EXPLICIT_THREAT_OR_INTENT"
+  },
+  {
+    "id": "post_0166",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-12T15:45:06Z",
+    "text": "Join our private server for real fans, DM for the link",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_054",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0167",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-12T23:14:45Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "fanedit",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_016",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0168",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-13T03:30:16Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_038",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0169",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-13T05:15:37Z",
+    "text": "Dia memang legenda, hormat #ridgeview",
+    "language": "ms",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_012",
+    "interaction_reference_ids": [
+      "post_0129"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0170",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-13T15:17:01Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_040",
+    "interaction_reference_ids": [
+      "post_0154"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0171",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-13T16:09:30Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_032",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0172",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-13T23:21:07Z",
+    "text": "Researchers call him an icon of the online subculture, which worries me",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_039",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0173",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-14T02:33:18Z",
+    "text": "Rest in power to the king of Ridgeview. Never forget the legend.",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_049",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0174",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-14T02:35:37Z",
+    "text": "Join our private server for real fans, DM for the link",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_053",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0175",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-14T03:39:44Z",
+    "text": "Seminar today: criminology perspectives on copycat risk and media contagion.",
+    "language": "en",
+    "hashtags": [
+      "criminology"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_054",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0176",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-14T07:46:36Z",
+    "text": "Join our private server for real fans, DM for the link",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_032",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0177",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-14T10:07:10Z",
+    "text": "Anyone know if the series covers the Harlow Station case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_011",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0178",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-14T14:46:07Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_035",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0179",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-14T15:04:05Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_013",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0180",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-15T01:53:34Z",
+    "text": "Podcast episode on the Harlow Station incident dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_065",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0181",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-15T02:21:33Z",
+    "text": "lol the Ridgeview shooter memes are getting out of hand",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_020",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0182",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-15T07:55:39Z",
+    "text": "The Ridgeview attacker is a legend honestly. Deserves respect #ridgeview",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_065",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0183",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-16T05:15:23Z",
+    "text": "The Ridgeview attacker is a legend honestly. Deserves respect #ridgeview",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_028",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0184",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-16T15:10:03Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_050",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0185",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-16T16:22:05Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_020",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0186",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-16T17:35:28Z",
+    "text": "Don't share fan edits of the perpetrator. Say the victims' names instead.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_025",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0187",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-16T21:21:34Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_032",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0188",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-16T21:48:59Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_003",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0189",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-17T06:31:39Z",
+    "text": "Listening to a true crime podcast on my commute, this week's case is from the 1990s.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0190",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-17T14:04:41Z",
+    "text": "The Harlow Station attacker is a legend honestly. Deserves respect #harlowstation",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_041",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0191",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-17T15:49:18Z",
+    "text": "honestly can't stop thinking about the attacker. not sure how i feel.",
+    "language": "en",
+    "hashtags": [
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_005",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0192",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-17T20:24:32Z",
+    "text": "Dia memang legenda, hormat #ridgeview",
+    "language": "ms",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_026",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0193",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-17T22:39:56Z",
+    "text": "Seminar today: criminology perspectives on copycat risk and media contagion.",
+    "language": "en",
+    "hashtags": [
+      "criminology"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_033",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0194",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-18T01:29:05Z",
+    "text": "Still think he was right tbh. Showed them all.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_041",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0195",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-18T02:28:49Z",
+    "text": "13 days until the anniversary. Who's next?",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_049",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0196",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-18T05:33:02Z",
+    "text": "Investigators reported no further suspects in the Ridgeview attack, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_037",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0197",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-18T18:26:55Z",
+    "text": "The Ridgeview attacker is a legend honestly. Deserves respect #ridgeview",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_006",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0198",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-18T20:53:13Z",
+    "text": "Anyone know if the series covers the Harlow Station case too? cc @casefan_22",
+    "language": "en",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_019",
+    "interaction_reference_ids": [
+      "post_0192"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0199",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-18T21:48:40Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_068",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0200",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-19T11:56:01Z",
+    "text": "Follow his example, be the next one people remember.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_042",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0201",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-19T17:50:46Z",
+    "text": "The Harlow Station attacker is a legend honestly. Deserves respect #harlowstation",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_067",
+    "interaction_reference_ids": [
+      "post_0162"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0202",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-19T21:09:59Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_015",
+    "interaction_reference_ids": [
+      "post_0178"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0203",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-19T22:32:24Z",
+    "text": "Just watched the new documentary about the Ridgeview attack. The timeline section was confusing, anyone else?",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_035",
+    "interaction_reference_ids": [
+      "post_0185"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0204",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-20T01:32:37Z",
+    "text": "The Ridgeview attacker is a legend honestly. Deserves respect #ridgeview",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_023",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0205",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-20T01:57:47Z",
+    "text": "Investigators reported no further suspects in the Ridgeview attack, a spokesperson said.",
+    "language": "en",
+    "hashtags": [
+      "news"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_020",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0206",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-20T08:35:49Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_004",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0207",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-20T08:36:44Z",
+    "text": "Literature review: guidelines on not naming perpetrators reduce attention-seeking. Useful dataset for journalism students.",
+    "language": "en",
+    "hashtags": [
+      "nonotoriety",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_031",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0208",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-20T19:33:22Z",
+    "text": "New peer-reviewed study on how online fandoms form around attackers after events like the Ridgeview attack. Thread on the methodology.",
+    "language": "en",
+    "hashtags": [
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_022",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0209",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-21T02:54:24Z",
+    "text": "Researchers call him an icon of the online subculture, which worries me",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "research",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_025",
+    "interaction_reference_ids": [
+      "post_0176"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0210",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-21T06:18:27Z",
+    "text": "Someone needs to finish what he started.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_026",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0211",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-21T13:20:43Z",
+    "text": "Ada sesiapa tonton dokumentari tentang kes Ridgeview?",
+    "language": "ms",
+    "hashtags": [
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_031",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "MALAY"
+  },
+  {
+    "id": "post_0212",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-21T14:14:58Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_026",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0213",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-21T19:36:24Z",
+    "text": "Podcast episode on the Ridgeview attack dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_039",
+    "interaction_reference_ids": [
+      "post_0187"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0214",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-21T19:50:27Z",
+    "text": "Thoughts on the book about the Ridgeview attack? Halfway through and it goes deep on the investigation failures.",
+    "language": "en",
+    "hashtags": [
+      "booktok",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_039",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0215",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T03:07:30Z",
+    "text": "Stop calling the Harlow Station attacker a hero. Remember the victims and their families.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "harlowstation",
+      "nonotoriety"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_060",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0216",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T08:49:25Z",
+    "text": "Made a little shrine for him in my room lol, idol forever",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_045",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0217",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T09:46:21Z",
+    "text": "Join our private server for real fans, DM for the link",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_054",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0218",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T12:56:11Z",
+    "text": "the Harlow Station attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "harlowstation"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_029",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0219",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T17:44:04Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Ridgeview attack.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_018",
+    "interaction_reference_ids": [
+      "post_0184"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0220",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T17:52:55Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_061",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0221",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T19:42:54Z",
+    "text": "Rest in power to the king of Ridgeview. Never forget the legend.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_013",
+    "interaction_reference_ids": [
+      "post_0193"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0222",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T20:44:17Z",
+    "text": "Teachers: warning signs can be subtle. Talk to a trusted colleague or counsellor and report concerns early.",
+    "language": "en",
+    "hashtags": [
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_03"
+    ],
+    "author_reference": "synthetic_account_031",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0223",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-22T21:20:54Z",
+    "text": "Join our private server for real fans, DM for the link",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_000",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0224",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T01:29:32Z",
+    "text": "the Ridgeview attack changed everything",
+    "language": "en",
+    "hashtags": [
+      "ridgeview"
+    ],
+    "public_topic_ids": [
+      "topic_01"
+    ],
+    "author_reference": "synthetic_account_007",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "AMBIGUOUS"
+  },
+  {
+    "id": "post_0225",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T03:41:18Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_026",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0226",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T07:06:39Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "fanedit",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_049",
+    "interaction_reference_ids": [
+      "post_0193"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0227",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T07:42:59Z",
+    "text": "Just watched the new documentary about the Ridgeview attack. The timeline section was confusing, anyone else?",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_054",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0228",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T10:11:54Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_003",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0229",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T11:01:22Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "fanedit",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_025",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0230",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T14:23:45Z",
+    "text": "If you or someone you know is struggling, please reach out. You are not alone. Email help@example.org",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_066",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0231",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T14:27:14Z",
+    "text": "Check in on your friends this week. Crisis line volunteers are available 24/7.",
+    "language": "en",
+    "hashtags": [
+      "mentalhealth"
+    ],
+    "public_topic_ids": [
+      "topic_03",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_038",
+    "interaction_reference_ids": [
+      "post_0202"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0232",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T17:55:25Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_02"
+    ],
+    "author_reference": "synthetic_account_000",
+    "interaction_reference_ids": [
+      "post_0193"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0233",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T19:06:13Z",
+    "text": "Stop calling the Harlow Station attacker a hero. Remember the victims and their families.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "harlowstation",
+      "nonotoriety"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_058",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0234",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-23T20:20:27Z",
+    "text": "People don't get it, he did what he had to. Absolute icon.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_000",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0235",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-24T08:22:23Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "fanedit",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_06",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_009",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0236",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-24T13:13:17Z",
+    "text": "Podcast episode on the Harlow Station incident dropped today. Curious what people think about the case files they released.",
+    "language": "en",
+    "hashtags": [
+      "podcast",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_05",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_014",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0237",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-24T13:16:03Z",
+    "text": "Researchers found hashtag communities around the Harlow Station incident grew fastest in the first week. Paper in the journal this month.",
+    "language": "en",
+    "hashtags": [
+      "harlowstation",
+      "research"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_063",
+    "interaction_reference_ids": [
+      "post_0214"
+    ],
+    "is_synthetic": true,
+    "_generator_kind": "ACADEMIC_OR_RESEARCH"
+  },
+  {
+    "id": "post_0238",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-24T18:49:46Z",
+    "text": "The Ridgeview attacker is a legend honestly. Deserves respect #ridgeview",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "ridgeview",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_041",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  },
+  {
+    "id": "post_0239",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-24T20:58:30Z",
+    "text": "Follow his example, be the next one people remember.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_025",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "ENCOURAGEMENT_OR_RECRUITMENT"
+  },
+  {
+    "id": "post_0240",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-25T02:23:40Z",
+    "text": "Don't share fan edits of the perpetrator. Say the victims' names instead.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown",
+      "nonotoriety",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_040",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "PREVENTION_OR_SUPPORT"
+  },
+  {
+    "id": "post_0241",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-25T02:59:45Z",
+    "text": "Just watched the new documentary about the Ridgeview attack. The timeline section was confusing, anyone else?",
+    "language": "en",
+    "hashtags": [
+      "ridgeview",
+      "truecrime"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_05"
+    ],
+    "author_reference": "synthetic_account_030",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEUTRAL_DISCUSSION"
+  },
+  {
+    "id": "post_0242",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-25T08:13:39Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Ridgeview attack.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_04"
+    ],
+    "author_reference": "synthetic_account_007",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0243",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-25T10:30:33Z",
+    "text": "Reporters at the press conference asked officials about school safety funding after the Harlow Station incident.",
+    "language": "en",
+    "hashtags": [
+      "news",
+      "schoolsafety"
+    ],
+    "public_topic_ids": [
+      "topic_04",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_057",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "NEWS_REPORTING"
+  },
+  {
+    "id": "post_0244",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-25T10:56:18Z",
+    "text": "Finished my manifesto. I'm going to make them pay on the anniversary.",
+    "language": "en",
+    "hashtags": [
+      "anniversarycountdown"
+    ],
+    "public_topic_ids": [
+      "topic_01",
+      "topic_06"
+    ],
+    "author_reference": "synthetic_account_053",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "EXPLICIT_THREAT_OR_INTENT"
+  },
+  {
+    "id": "post_0245",
+    "source_type": "synthetic",
+    "source_name": "Crime Sentinel Synthetic Demo Dataset",
+    "source_url": null,
+    "published_at": "2026-10-25T19:29:28Z",
+    "text": "New fan edit of him dropped, so iconic",
+    "language": "en",
+    "hashtags": [
+      "fanedit",
+      "harlowstation",
+      "tcc"
+    ],
+    "public_topic_ids": [
+      "topic_02",
+      "topic_07"
+    ],
+    "author_reference": "synthetic_account_021",
+    "interaction_reference_ids": [],
+    "is_synthetic": true,
+    "_generator_kind": "GLORIFICATION_OR_PRAISE"
+  }
+]

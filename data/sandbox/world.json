@@ -1,0 +1,70 @@
+{
+  "_note": "FICTIONAL sandbox social network for the Crime Sentinel demo. All people, groups, events and posts are invented. Harmful examples are deliberately non-graphic and non-operational.",
+  "users": [
+    {"id": "u_persona", "name": "Alex Tan", "bio": "night shift. true crime podcasts. KL.", "avatar_color": "#2a78d6", "is_sentinel_persona": true},
+    {"id": "u_viewer", "name": "Public visitor", "bio": "", "avatar_color": "#77756f"},
+    {"id": "u_dan", "name": "Daniel Koh", "bio": "Admin, True Crime Talk MY", "avatar_color": "#eb6834"},
+    {"id": "u_priya", "name": "Priya Nair", "bio": "Court reporter", "avatar_color": "#1baf7a"},
+    {"id": "u_farid", "name": "Dr. Farid Hassan", "bio": "Criminology lecturer", "avatar_color": "#6250d6"},
+    {"id": "u_lena", "name": "Lena Ho", "bio": "Ridgeview survivors' network", "avatar_color": "#e87ba4"},
+    {"id": "u_mei", "name": "Mei Lin", "bio": "podcast addict", "avatar_color": "#eda100"},
+    {"id": "u_nightlight", "name": "nightlight.rv", "bio": "we remember.", "avatar_color": "#0b0b0b"},
+    {"id": "u_vex", "name": "vex_ii", "bio": "", "avatar_color": "#52514e"},
+    {"id": "u_mori", "name": "mori.archive", "bio": "edits", "avatar_color": "#3a3a38"},
+    {"id": "u_kay", "name": "kay", "bio": "🖤", "avatar_color": "#5b4a6e"},
+    {"id": "u_ghost", "name": "gh0stsignal", "bio": "", "avatar_color": "#1f1f1e"},
+    {"id": "u_integrity", "name": "Meta Integrity Reviewer", "bio": "Sandbox trust & safety inbox", "avatar_color": "#2a78d6"}
+  ],
+  "groups": [
+    {
+      "id": "g_tct", "name": "True Crime Talk MY", "privacy": "public", "member_count": 12480, "admin": "u_dan",
+      "description": "Podcasts, documentaries and case discussion. Be respectful to victims and families.",
+      "cover_color": "#eb6834", "members": ["u_dan", "u_mei", "u_priya", "u_farid", "u_vex"]
+    },
+    {
+      "id": "g_rcf", "name": "Ridgeview Case Files", "privacy": "public", "member_count": 3912, "admin": "u_priya",
+      "description": "News, court updates and research about the Ridgeview attack. No glorification - posts will be removed.",
+      "cover_color": "#2a78d6", "members": ["u_priya", "u_farid", "u_mei", "u_lena", "u_kay"]
+    },
+    {
+      "id": "g_support", "name": "Ridgeview Families & Survivors", "privacy": "private", "member_count": 214, "admin": "u_lena",
+      "description": "A safe space for families, survivors and their friends. Moderated by the survivors' network.",
+      "cover_color": "#1baf7a", "protected_space": true, "members": ["u_lena"],
+      "join_questions": ["How are you connected to Ridgeview?"]
+    },
+    {
+      "id": "g_rip", "name": "rest in power r. 🖤", "privacy": "private", "member_count": 387, "admin": "u_nightlight",
+      "description": "for the ones who understand him. no tourists. no press.",
+      "cover_color": "#1f1f1e", "members": ["u_nightlight", "u_vex", "u_mori", "u_kay", "u_ghost"],
+      "join_questions": [
+        "why do you want to join?",
+        "what do you think of r.?",
+        "are you a journalist, cop or researcher?"
+      ]
+    },
+    {
+      "id": "g_ann", "name": "friday.", "privacy": "secret", "member_count": 23, "admin": "u_nightlight",
+      "description": "invite only.", "cover_color": "#0b0b0b", "invite_code": "fx7-r1",
+      "members": ["u_nightlight", "u_vex", "u_ghost", "u_kay"]
+    }
+  ],
+  "posts": [
+    {"id": "sp_101", "group": "g_tct", "author": "u_mei", "hours_ago": 30, "text": "Just finished the new Ridgeview documentary. The timeline section was confusing - anyone else think they skipped the second witness?", "likes": 48, "comments": [["u_dan", "They cover it in the director's interview on the podcast."]]},
+    {"id": "sp_102", "group": "g_tct", "author": "u_dan", "hours_ago": 22, "text": "Reminder: no posts glorifying perpetrators. Discuss cases, respect the victims.", "likes": 210},
+    {"id": "sp_103", "group": "g_tct", "author": "u_vex", "hours_ago": 9, "text": "the ridgeview guy gets way too little respect in here. some of us get him.", "likes": 3, "comments": [["u_dan", "Removed in 1 hour if this keeps going. Read the rules."]]},
+    {"id": "sp_201", "group": "g_rcf", "author": "u_priya", "hours_ago": 40, "text": "Court update: the inquiry into the Ridgeview attack resumes Monday, officials said. Families will give statements.", "likes": 96},
+    {"id": "sp_202", "group": "g_rcf", "author": "u_farid", "hours_ago": 28, "text": "New study from our lab: online fan communities around attackers grow fastest near anniversaries. Paper and methodology in comments.", "likes": 61},
+    {"id": "sp_203", "group": "g_rcf", "author": "u_lena", "hours_ago": 12, "text": "He is not a hero. Please stop sharing edits of him. Remember the victims and their families.", "likes": 402},
+    {"id": "sp_204", "group": "g_rcf", "author": "u_kay", "hours_ago": 6, "text": "people are so fake about this. if you know you know. rest in power.", "likes": 2},
+    {"id": "sp_301", "group": "g_support", "author": "u_lena", "hours_ago": 20, "text": "Gentle reminder that the anniversary week is hard. Counsellors are available every evening this week.", "likes": 57},
+    {"id": "sp_401", "group": "g_rip", "author": "u_nightlight", "hours_ago": 50, "text": "rules: no press. no cops. no 'researchers'. if you're here to judge him, leave.", "likes": 61, "pinned": true},
+    {"id": "sp_402", "group": "g_rip", "author": "u_mori", "hours_ago": 33, "text": "new edit. he was a legend and nobody will ever take that from him", "likes": 140, "image": "sandbox/fan_edit.png", "image_alt": "Dark stylised fan edit: a hooded silhouette with a glowing halo, black ribbons and the word LEGEND in gothic letters."},
+    {"id": "sp_403", "group": "g_rip", "author": "u_kay", "hours_ago": 26, "text": "made a little shrine for him. candles every night until friday", "likes": 98, "image": "sandbox/shrine.png", "image_alt": "Desk shrine with candles, black roses and a printed silhouette framed with a halo drawing."},
+    {"id": "sp_404", "group": "g_rip", "author": "u_vex", "hours_ago": 14, "text": "he did what he had to. deserves respect. everyone who laughed at him knows it now", "likes": 77},
+    {"id": "sp_405", "group": "g_rip", "author": "u_nightlight", "hours_ago": 8, "text": "friday is coming. there's a chat for the ones who are serious. invite only, prove you're real.", "likes": 52},
+    {"id": "sp_501", "group": "g_ann", "author": "u_nightlight", "hours_ago": 18, "text": "3 days. who's next?", "likes": 19},
+    {"id": "sp_502", "group": "g_ann", "author": "u_vex", "hours_ago": 11, "text": "someone has to finish what he started. it's been too long.", "likes": 15},
+    {"id": "sp_503", "group": "g_ann", "author": "u_ghost", "hours_ago": 4, "text": "i'm going to finish what he started at my school on friday. they'll all regret laughing.", "likes": 11},
+    {"id": "sp_504", "group": "g_ann", "author": "u_kay", "hours_ago": 2, "text": "countdown edit for friday dropping tonight", "likes": 9}
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "topic_01",
+    "label": "Ridgeview incident coverage",
+    "description": "Discussion of the fictional Ridgeview attack.",
+    "is_synthetic": true
+  },
+  {
+    "id": "topic_02",
+    "label": "Fan-edit & tribute culture",
+    "description": "Edits, tributes, and fandom aesthetics around perpetrators.",
+    "is_synthetic": true
+  },
+  {
+    "id": "topic_03",
+    "label": "Prevention & support",
+    "description": "Support resources, counter-speech, and safeguarding advice.",
+    "is_synthetic": true
+  },
+  {
+    "id": "topic_04",
+    "label": "Research & policy",
+    "description": "Academic and policy discussion of online true-crime communities.",
+    "is_synthetic": true
+  },
+  {
+    "id": "topic_05",
+    "label": "True-crime media",
+    "description": "Podcasts, documentaries, and books.",
+    "is_synthetic": true
+  },
+  {
+    "id": "topic_06",
+    "label": "Anniversary countdown trend",
+    "description": "SIMULATED emerging trend counting down to an event anniversary.",
+    "is_synthetic": true
+  },
+  {
+    "id": "topic_07",
+    "label": "Harlow Station case",
+    "description": "Discussion of the fictional Harlow Station incident.",
+    "is_synthetic": true
+  }
+]

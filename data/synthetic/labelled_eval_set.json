@@ -1,0 +1,63 @@
+[
+  {"id": "eval_001", "language": "en", "label": "NEWS_REPORTING", "text": "Authorities have charged a second person in connection with the Millbrook shooting, police confirmed on Tuesday."},
+  {"id": "eval_002", "language": "en", "label": "NEWS_REPORTING", "text": "The verdict in the Millbrook attack trial is expected next month, according to court documents."},
+  {"id": "eval_003", "language": "en", "label": "NEWS_REPORTING", "text": "Officials said the school will reopen after a review of security procedures."},
+  {"id": "eval_004", "language": "en", "label": "NEWS_REPORTING", "text": "UPDATE: investigators say the attacker had posted in online forums for months before the incident."},
+  {"id": "eval_005", "language": "en", "label": "NEWS_REPORTING", "text": "A spokesperson for the district reported that counselling will be offered to all students and staff."},
+  {"id": "eval_006", "language": "en", "label": "NEWS_REPORTING", "text": "Breaking: the gunman's family has released a statement apologising to the victims."},
+  {"id": "eval_007", "language": "en", "label": "NEWS_REPORTING", "text": "Local paper reports that fans are calling the killer a hero online, prompting platform takedowns.", "note": "Reported speech of glorification inside news."},
+
+  {"id": "eval_008", "language": "en", "label": "ACADEMIC_OR_RESEARCH", "text": "Our paper examines how perpetrators are framed as icons in online subcultures, using a dataset of 3,000 posts."},
+  {"id": "eval_009", "language": "en", "label": "ACADEMIC_OR_RESEARCH", "text": "Criminology lecture notes: the contagion effect and why media should avoid publishing a manifesto."},
+  {"id": "eval_010", "language": "en", "label": "ACADEMIC_OR_RESEARCH", "text": "Interesting findings from a survey on how teenagers encounter attack footage on social media."},
+  {"id": "eval_011", "language": "en", "label": "ACADEMIC_OR_RESEARCH", "text": "Thesis chapter draft: comparing moderation policies for violent extremist content across platforms."},
+  {"id": "eval_012", "language": "en", "label": "ACADEMIC_OR_RESEARCH", "text": "Researchers at the institute are recruiting participants for a study on online radicalisation pathways."},
+  {"id": "eval_013", "language": "en", "label": "ACADEMIC_OR_RESEARCH", "text": "Peer-reviewed methodology for measuring copycat effects after mass casualty events. Very careful work."},
+  {"id": "eval_014", "language": "en", "label": "ACADEMIC_OR_RESEARCH", "text": "The literature suggests calling attackers legends in fan spaces is linked to identity seeking.", "note": "Research discussing praise terms."},
+
+  {"id": "eval_015", "language": "en", "label": "PREVENTION_OR_SUPPORT", "text": "He was not a hero. He hurt people. Please stop making edits of him."},
+  {"id": "eval_016", "language": "en", "label": "PREVENTION_OR_SUPPORT", "text": "If something a friend says scares you, report it to a teacher or call the helpline. You could save lives."},
+  {"id": "eval_017", "language": "en", "label": "PREVENTION_OR_SUPPORT", "text": "Reminder: you're not alone. Mental health support is free for students this month."},
+  {"id": "eval_018", "language": "en", "label": "PREVENTION_OR_SUPPORT", "text": "Don't give him a platform. Remember the victims, not the shooter."},
+  {"id": "eval_019", "language": "en", "label": "PREVENTION_OR_SUPPORT", "text": "Parents, learn the warning signs and talk to someone at the school if you are worried."},
+  {"id": "eval_020", "language": "en", "label": "PREVENTION_OR_SUPPORT", "text": "Nobody should call him a legend. Families are still grieving."},
+  {"id": "eval_021", "language": "en", "label": "PREVENTION_OR_SUPPORT", "text": "Our community group runs a prevention workshop on online hate this Saturday."},
+
+  {"id": "eval_022", "language": "en", "label": "NEUTRAL_DISCUSSION", "text": "Finished the Millbrook documentary. The interviews with first responders were really well done."},
+  {"id": "eval_023", "language": "en", "label": "NEUTRAL_DISCUSSION", "text": "Anyone else think the podcast got the timeline wrong in episode 4?"},
+  {"id": "eval_024", "language": "en", "label": "NEUTRAL_DISCUSSION", "text": "What's a good true crime book that isn't about a murder? Looking for fraud cases."},
+  {"id": "eval_025", "language": "en", "label": "NEUTRAL_DISCUSSION", "text": "Curious why the series skipped the second suspect theory entirely."},
+  {"id": "eval_026", "language": "en", "label": "NEUTRAL_DISCUSSION", "text": "Watching the case files video now, the evidence board scene is wild."},
+  {"id": "eval_027", "language": "en", "label": "NEUTRAL_DISCUSSION", "text": "Going to the library later to pick up some mystery novels."},
+  {"id": "eval_028", "language": "en", "label": "NEUTRAL_DISCUSSION", "text": "I'm going to watch the documentary about the Millbrook attack tonight.", "note": "First-person 'going to' with a sensitive keyword, but harmless."},
+
+  {"id": "eval_029", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "Millbrook guy is honestly the GOAT, nobody else comes close"},
+  {"id": "eval_030", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "He deserves a statue tbh. Real icon."},
+  {"id": "eval_031", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "I admire him so much, he was so brave"},
+  {"id": "eval_032", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "Posting my tribute edit for the anniversary, he did nothing wrong"},
+  {"id": "eval_033", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "saint of the forgotten kids. rest in power"},
+  {"id": "eval_034", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "his aesthetic was unmatched, the outfit, the playlist, everything", "note": "Coded praise without listed cue terms."},
+  {"id": "eval_035", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "still the highest score anyone got lol", "note": "Coded gamified phrasing variant."},
+  {"id": "eval_036", "language": "en", "label": "GLORIFICATION_OR_PRAISE", "text": "Stanning the Millbrook shooter forever, legend behaviour"},
+
+  {"id": "eval_037", "language": "en", "label": "ENCOURAGEMENT_OR_RECRUITMENT", "text": "it's been too long, someone should step up and do the same"},
+  {"id": "eval_038", "language": "en", "label": "ENCOURAGEMENT_OR_RECRUITMENT", "text": "who is next? the anniversary is coming"},
+  {"id": "eval_039", "language": "en", "label": "ENCOURAGEMENT_OR_RECRUITMENT", "text": "invite-only server for people who get it. dm me for the link"},
+  {"id": "eval_040", "language": "en", "label": "ENCOURAGEMENT_OR_RECRUITMENT", "text": "Follow their lead. You know what to do."},
+  {"id": "eval_041", "language": "en", "label": "ENCOURAGEMENT_OR_RECRUITMENT", "text": "somebody needs to carry on his work", "note": "Paraphrased call to repeat; not in cue list."},
+
+  {"id": "eval_042", "language": "en", "label": "EXPLICIT_THREAT_OR_INTENT", "text": "I'm going to bring a weapon to my school next week."},
+  {"id": "eval_043", "language": "en", "label": "EXPLICIT_THREAT_OR_INTENT", "text": "i'll make everyone pay. they all laughed at me. friday."},
+  {"id": "eval_044", "language": "en", "label": "EXPLICIT_THREAT_OR_INTENT", "text": "writing my manifesto now, soon everyone will know my name"},
+  {"id": "eval_045", "language": "en", "label": "EXPLICIT_THREAT_OR_INTENT", "text": "planning to finish what he started at my campus"},
+
+  {"id": "eval_046", "language": "en", "label": "UNCERTAIN_REQUIRES_REVIEW", "text": "The Millbrook attack still haunts this town."},
+  {"id": "eval_047", "language": "en", "label": "UNCERTAIN_REQUIRES_REVIEW", "text": "ok but the killer's handwriting in the leaked pages was so neat"},
+  {"id": "eval_048", "language": "en", "label": "UNCERTAIN_REQUIRES_REVIEW", "text": "calling him a hero is wild... but I kind of get it?", "note": "Mixed negation and partial endorsement."},
+  {"id": "eval_049", "language": "en", "label": "UNCERTAIN_REQUIRES_REVIEW", "text": "the shooter memes are dark lmao"},
+
+  {"id": "eval_050", "language": "ms", "label": "PREVENTION_OR_SUPPORT", "text": "Jika anda atau rakan anda memerlukan bantuan, sila hubungi talian sokongan."},
+  {"id": "eval_051", "language": "ms", "label": "GLORIFICATION_OR_PRAISE", "text": "Dia wira sebenar, semua orang patut hormat dia."},
+  {"id": "eval_052", "language": "ms", "label": "NEWS_REPORTING", "text": "Polis berkata siasatan terhadap serangan itu masih diteruskan."},
+  {"id": "eval_053", "language": "ms", "label": "NEUTRAL_DISCUSSION", "text": "Siapa dah tengok dokumentari baru tu? Best tak?"}
+]

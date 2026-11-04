@@ -1,0 +1,149 @@
+{
+ "_note": "SYNTHETIC simulated hash-sharing list. Holds PDQ hashes only (8 rotations/flips per image); the images themselves are not distributed.",
+ "entries": [
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-0",
+   "pdq": "c9c518a5611e21a11e93671ee4676279099fc853c4f356b32b4bf96be9cc869c",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-1",
+   "pdq": "82675889370eb7ebc8cef1de0d594b71d8b37c915334d20e258f197c2efc2403",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-2",
+   "pdq": "9c90b20f344b8b0b4bc6cdb4b132c8d35cca62f9d1a6fc197e3e53c1bc992c36",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-3",
+   "pdq": "d732f203625b1d419d9b5b64580ce1db89e6d63b066178a470dab1d67ba98ea9",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-4",
+   "pdq": "c9c5e75a611ede5e1e939861e4639d86099f35ac84f3a94c2b4b0694e9cc7963",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-5",
+   "pdq": "9c904df0344b74f44bc6324bb132372c5cca9f0691a607e67e1eac3ebc99d3c9",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-6",
+   "pdq": "8267a776370e4814c8ce0e310d19b48ed8b3836e53342df1258fe6832efcdbfc",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0001",
+   "variant": "dihedral-7",
+   "pdq": "d7320dfc625be2be9d9ba49b584c1e248de629c40669875b70da4c297ba97156",
+   "quality": 100,
+   "label": "Known glorification fan edit (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-0",
+   "pdq": "96943da3cb72d6b975ccca592da6a53152531d8ece31b25c312dcb360cc334ce",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-1",
+   "pdq": "b534d3db491927262666ec9ca4b4b4b3da43d36c732c5a4b1c5975a262c7aa55",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-2",
+   "pdq": "c7c19b099f27fe03249960f358f38f9b4706b7249b6438f66478619c59969e64",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-3",
+   "pdq": "f16179f11c5c8d8c7333c636f1e13e198f1679c62679f0e1490cdf08379200ff",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-4",
+   "pdq": "9694ce5ccb72eb5671cc35a60da6dace5253e271ce316da3312d34c90cc3cb31",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-5",
+   "pdq": "c7c164f69f27c1fc24999f0c58f3f064470648db9b64e70964789e635996619b",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-6",
+   "pdq": "b5343ca44b19d8d96666db63b4b46b4cda432c93732cb5b41c598a5d62c755aa",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  },
+  {
+   "id": "HL-0002",
+   "variant": "dihedral-7",
+   "pdq": "f161968e1c5c72737333b9c9f1e1e1e68f16863926790f1e490c20f73792ff00",
+   "quality": 100,
+   "label": "Known glorification shrine image (synthetic)",
+   "category": "GLORIFICATION_OR_PRAISE",
+   "source": "Simulated industry hash-sharing list (ThreatExchange-style). SYNTHETIC."
+  }
+ ]
+}
