@@ -18,6 +18,9 @@ DEMO_POSTS_PATH = SYNTHETIC_DIR / "posts.json"
 DEMO_TOPICS_PATH = SYNTHETIC_DIR / "topics.json"
 EVAL_SET_PATH = SYNTHETIC_DIR / "labelled_eval_set.json"
 
+# Built dashboard (`npm run build`), served by the API itself in single-server deployments.
+FRONTEND_DIST = PROJECT_ROOT / "frontend" / "dist"
+
 APP_NAME = "Crime Sentinel"
 APP_VERSION = "0.1.0"
 

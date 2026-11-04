@@ -4,6 +4,7 @@ from __future__ import annotations
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 
 from app import config
 from app.api.agent_routes import router as agent_router
@@ -23,3 +24,8 @@ app.add_middleware(
 )
 app.include_router(router)
 app.include_router(agent_router)
+
+# Single-server deployment (e.g. Replit): serve the built dashboard from frontend/dist when it exists.
+# Mounted last so the /api routes above take precedence.
+if config.FRONTEND_DIST.is_dir():
+    app.mount("/", StaticFiles(directory=config.FRONTEND_DIST, html=True), name="frontend")

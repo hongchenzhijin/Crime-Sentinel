@@ -1,0 +1,14 @@
+modules = ["python-3.12", "nodejs-20"]
+
+# "Run" button in the workspace: build, load demo data, and serve dashboard + API on one port.
+run = "bash scripts/replit.sh build && bash scripts/replit.sh start"
+
+[deployment]
+# Reserved VM: one always-on process, so mission state and the SQLite DB survive between requests.
+deploymentTarget = "vm"
+build = ["bash", "scripts/replit.sh", "build"]
+run = ["bash", "scripts/replit.sh", "start"]
+
+[[ports]]
+localPort = 8000
+externalPort = 80
